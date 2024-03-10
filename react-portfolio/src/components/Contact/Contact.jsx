@@ -33,7 +33,9 @@ export const Contact = () => {
             src={getImageUrl("contact/instagramIcon.png")}
             alt="Instagram icon"
           />
-          <a href="https://github.com/03sana">03coder - Sana•software</a>
+          <a href="https://www.instagram.com/03coder?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
+            03coder - Sana•software
+          </a>
         </li>
       </ul>
     </footer>
