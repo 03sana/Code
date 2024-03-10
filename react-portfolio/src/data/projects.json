@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/WeatherApp.png",
+    "description": "This is a project made to practice JavaScript.",
+    "skills": ["Html", "CSS", "JS"],
+    "demo": "https://03sana.github.io/weatherApp/",
+    "source": "https://github.com/03sana/weatherApp.git"
+  },
+  {
+    "title": "React To Do List",
+    "imageSrc": "projects/reactToDoList.png",
+    "description": "This is a project made to learn React.",
+    "skills": ["Html", "CSS", "React"],
+    "demo": "https://bejewelled-granita-e9c51d.netlify.app/",
+    "source": "https://github.com/03sana/react-todo-list.git"
+  },
+  {
+    "title": "Daily Care",
+    "imageSrc": "projects/dailyCare.png",
+    "description": "This is a project made to practice frontend development.",
+    "skills": ["Html", "CSS", "Js", "Firebase"],
+    "demo": "https://dailycare.website/",
+    "source": "https://github.com/03sana/DailyCare.git"
+  },
+
+  {
+    "title": "Tic-Tac-Toe Game",
+    "imageSrc": "projects/Tic-Tac-Toe.png",
+    "description": "This is a project made to practice JavaScript.",
+    "skills": ["Html", "CSS", "Js"],
+    "demo": "https://03sana.github.io/Tic-Tac-Toe/",
+    "source": "https://github.com/03sana/Tic-Tac-Toe.git"
+  },
+
+  {
+    "title": "Guess My Number Game",
+    "imageSrc": "projects/guessMynumber.png",
+    "description": "This is a project made to practice JavaScript.",
+    "skills": ["Html", "CSS", "Js"],
+    "demo": "https://guessmynumbergamejs.netlify.app/",
+    "source": "https://github.com/03sana/05-Guess-My-Number.git"
+  },
+  {
+    "title": "Pig Game",
+    "imageSrc": "projects/pigGame.png",
+    "description": "This is a project made to practice JavaScript.",
+    "skills": ["Html", "CSS", "Js"],
+    "demo": "https://pigogame.netlify.app/",
+    "source": "https://github.com/03sana/07-Pig-Game.git"
+  },
+
+  {
+    "title": "Biometric Attendance App",
+    "imageSrc": "projects/figmaDesign.png",
+    "description": "An app designed to manage attendance.",
+    "skills": ["Figma"],
+    "demo": "https://www.figma.com/proto/S9UJFq6kzvGUHzuUzYnE8r/biometric-attendance-mangment-system?page-id=0%3A1&node-id=999-51994&viewport=1816%2C145%2C0.28&scaling=scale-down&starting-point-node-id=999%3A51994&mode=design&t=AwDL21JyL2ogbLO4-1",
+    "source": "https://www.figma.com/community/file/1243605890554703041/biometric-attendance-mangment-system"
+  },
+
+  {
+    "title": "Product Website",
+    "imageSrc": "projects/productWeb.png",
+    "description": "This is a project made to practice frontend development.",
+    "skills": ["Html", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Ekipce",
+    "imageSrc": "projects/Ekipce.png",
+    "description": "This is a project made for basketball team in HKU Univerity.",
+    "skills": ["Html", "CSS", "Js"],
+    "demo": "https://ekipce.netlify.app/",
+    "source": "https://github.com/03sana/ekipweb.git"
+  },
+  {
+    "title": "AirBnb Page",
+    "imageSrc": "projects/airbnbInterface.png",
+    "description": "This is a project made to learn React.",
+    "skills": ["React", "Css"],
+    "demo": "https://www.notyetdone.com",
+    "source": "https://github.com/03sana/airbnb-project.git"
+  },
+  {
+    "title": "Yoga Website",
+    "imageSrc": "projects/Yoga-web.png",
+    "description": "This is a project made to practice frontend development.",
+    "skills": ["Html", "CSS"],
+    "demo": "https://03sana.github.io/Yoga-Figma-Web/",
+    "source": "https://github.com/03sana/Yoga-Figma-Web.git"
+  },
+  {
+    "title": "Portifolio",
+    "imageSrc": "projects/portifolio.png",
+    "description": "This is a project made to practice JavaScript.",
+    "skills": ["Html", "CSS", "Js"],
+    "demo": "https://sanasw.tech/",
+    "source": "https://github.com/03sana/portfolioWebsite.git"
+  }
+]
