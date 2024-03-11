@@ -12,7 +12,7 @@
     "imageSrc": "projects/reactToDoList.png",
     "description": "This is a project made to learn React.",
     "skills": ["Html", "CSS", "React"],
-    "demo": "https://bejewelled-granita-e9c51d.netlify.app/",
+    "demo": "https://react-todo-list-jw13.onrender.com/",
     "source": "https://github.com/03sana/react-todo-list.git"
   },
   {
@@ -64,7 +64,7 @@
     "imageSrc": "projects/productWeb.png",
     "description": "This is a project made to practice frontend development.",
     "skills": ["Html", "CSS"],
-    "demo": "https://www.example.com",
+    "demo": "https://03sana.github.io/product-web-figmadesign-project2/",
     "source": "https://www.github.com"
   },
   {
