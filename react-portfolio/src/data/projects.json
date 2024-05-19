@@ -8,6 +8,14 @@
     "source": "https://github.com/03sana/weatherApp.git"
   },
   {
+    "title": "MediMinder-PillReminderApp",
+    "imageSrc": "projects/MediMinderCover.png",
+    "description": "React Native application designed to help users manage their medication schedules effectively",
+    "skills": ["React Native", "Firebase", "Expo", "Redux"],
+    "demo": "https://www.figma.com/community/file/1373636997429151322/mediminder-pillreminderapp",
+    "source": "https://github.com/03sana/MediMinder-PillReminderApp-master.git"
+  },
+  {
     "title": "React To Do List",
     "imageSrc": "projects/reactToDoList.png",
     "description": "This is a project made to learn React.",
